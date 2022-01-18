@@ -1,8 +1,8 @@
 {
-'name':'Alex',
-'sur':'Maglyona',
-'midname':Vasilievitch',
-'age':35,
-'animals':3,
-'sallary':2000
+"name":"Alex",
+"sur":"Maglyona",
+'midname':"Vasilievitch",
+"age":35,
+"animals":3,
+"sallary":"2000$"
 }

@@ -1,3 +1,9 @@
 {
-  'bugreport':'The vebsite www... doesn't open'
+ "Summary": "The website www... doesn't open"
+"Project": "LookUp"
+"Version" : 3.21
+"STP": "open website... verify that website doesn't open"
+"Severity":"S1"
+"Priority":"P1"
+"Status":"Open"
 }
